@@ -1,6 +1,6 @@
 {
     "name": "pdf2png-https",
-    "version": "2.0.0",
+    "version": "2.1.0",
     "description": "Takes a PDF-document and converts and delivers a PNG",
     "engine": "node >= 0.6.0",
     "main": "./lib/pdf2png.js",
